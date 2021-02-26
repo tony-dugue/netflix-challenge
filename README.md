@@ -8,6 +8,12 @@ installation des dépendances :
 ```sh
 $ npm install
 ```
+## Démonstration
+
+Application hébergé sur Firebase.
+
+[Voir une version de démonstration](https://netflix-clone-e9230.web.app/)
+
 
 ## Démarrer l'application
 ***
