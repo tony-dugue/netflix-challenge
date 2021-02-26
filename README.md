@@ -10,7 +10,7 @@ $ npm install
 ```
 ## Démonstration
 
-Application hébergé sur Firebase.
+Application hébergé sur Firebase
 
 [Voir une version de démonstration](https://netflix-clone-e9230.web.app/)
 
